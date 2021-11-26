@@ -16,3 +16,25 @@
     }
     Console.WriteLine("sayfa sonu - footer");
 }
+namespace Ödev1
+{
+    public class Program<T>
+    {
+        static void Main(string[] args)
+        {
+            List<string> menuList = new List<string> { "Kurslarım", "Tüm Kurslar", "Kampa Hazırılık", "Sık Sorulan Sorular" };
+            List<string> courseList = new List<string> { "C#", "Java", "Temel" };
+
+            foreach (var menu in menuList)
+
+            {
+                Console.WriteLine(menuList);
+            }
+            foreach (var couse in courseList)
+            {
+                Console.WriteLine(courseList);
+            }
+            Console.WriteLine("sayfa sonu");
+        }
+    }
+}
