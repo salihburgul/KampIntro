@@ -27,6 +27,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListingPractice", "ListingP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMetotDemo", "ClassMetotDemo\ClassMetotDemo.csproj", "{AD1AB333-7013-473C-ABE4-C08D9EA4AF59}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferanceTypes", "ReferanceTypes\ReferanceTypes.csproj", "{1842CA1E-1A6B-44A8-BA11-06D112AE4AF1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{AD1AB333-7013-473C-ABE4-C08D9EA4AF59}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD1AB333-7013-473C-ABE4-C08D9EA4AF59}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD1AB333-7013-473C-ABE4-C08D9EA4AF59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1842CA1E-1A6B-44A8-BA11-06D112AE4AF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1842CA1E-1A6B-44A8-BA11-06D112AE4AF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1842CA1E-1A6B-44A8-BA11-06D112AE4AF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1842CA1E-1A6B-44A8-BA11-06D112AE4AF1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
