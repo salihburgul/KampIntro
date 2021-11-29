@@ -33,7 +33,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constructors", "Constructor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generics", "Generics\Generics.csproj", "{BCCDB6CE-092B-4B24-8F46-AAC0293BAA3F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDictonary", "MyList\MyDictonary.csproj", "{41D3E156-7D9A-420C-B5B6-444F15F13054}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyDictonary", "MyList\MyDictonary.csproj", "{41D3E156-7D9A-420C-B5B6-444F15F13054}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oop2", "Oop2\Oop2.csproj", "{76B5DF27-AFC7-4872-98E7-C68D44F0A9AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{43074904-8590-40DD-8973-AB6B4CD9FF0E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +109,14 @@ Global
 		{41D3E156-7D9A-420C-B5B6-444F15F13054}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{41D3E156-7D9A-420C-B5B6-444F15F13054}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{41D3E156-7D9A-420C-B5B6-444F15F13054}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76B5DF27-AFC7-4872-98E7-C68D44F0A9AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76B5DF27-AFC7-4872-98E7-C68D44F0A9AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76B5DF27-AFC7-4872-98E7-C68D44F0A9AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76B5DF27-AFC7-4872-98E7-C68D44F0A9AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43074904-8590-40DD-8973-AB6B4CD9FF0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43074904-8590-40DD-8973-AB6B4CD9FF0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43074904-8590-40DD-8973-AB6B4CD9FF0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43074904-8590-40DD-8973-AB6B4CD9FF0E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
