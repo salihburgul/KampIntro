@@ -19,3 +19,5 @@ namespace OOP3
 
 
 //interface, birisi bunu kullanırsa void metodunu içermek orunda
+//loglarla veri tabanına veri depolayabiliriz.
+//loglar ile yapılan işlemler sonrasında müşteye sms veya mail yollayabiliriz
